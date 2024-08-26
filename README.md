@@ -1,2 +1,2 @@
 # Diploma-Python-aplicado-a-la-Ciencia-de-Datos
-Material del Diploma Python aplicado a la Ciencia de Datos
+El Diploma de Programación en Python aplicado a la Ciencia de Datos del Departamento de Ciencias de la Computación de la Universidad de Chile entrega conocimientos prácticos para abordar, a través del lenguaje de programación Python y sus bibliotecas, todos los ámbitos de la ciencia de datos, desde los fundamentos de programación, hasta aprendizaje automático.
