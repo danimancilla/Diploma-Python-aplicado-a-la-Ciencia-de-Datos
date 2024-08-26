@@ -8,5 +8,5 @@ Este curso enseña a manipular datos tabulares con numpy y pandas, y a extraer, 
 - Combinación, agregación, y pivoteo de tablas.
 - Visualizaciones y modelos estadísticos.
   
-## Material Incluido:
+## Material Incluído:
 Ejercicios y laboratorios.
